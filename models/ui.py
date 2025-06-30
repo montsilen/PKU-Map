@@ -10,13 +10,6 @@ from PySide6.QtGui import QIcon, QColor, QPainter, QPolygonF, QBrush, QPen, \
 
 from .constants import *
 
-class wheelEvent(QEvent):
-    Type = QEvent.Type(QEvent.registerEventType())
-
-    def __init__(self, data):
-        super().__init__(wheelEvent.Type)
-        self.data = data
-
 class mapView(QGraphicsView):
     """
     地图视图类
