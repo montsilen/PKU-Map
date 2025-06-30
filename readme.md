@@ -1,6 +1,9 @@
 # 燕园导航PKU-MAP
 2025春程序设计实习大作业报告
 
+演示视频链接
+[https://disk.pku.edu.cn/link/AA82B140937D2F4BF49B8021AA48EC24F2 提取码：H1cV](https://disk.pku.edu.cn/link/AA82B140937D2F4BF49B8021AA48EC24F2)
+
 ### 一、程序功能介绍
 
 我们组具体实现了一个燕园校区的地图导航功能，主要服务于对学校不熟悉的同学以及前来参观的游客。
